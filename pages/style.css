@@ -1,0 +1,30 @@
+body {
+	color: #000000;
+	font-family: Arial; /* Семейство шрифтов */
+	font-size: 15pt; /* Размер основного шрифта в пунктах  */
+	background:url(../bg/bgone.jpg) no-repeat center top, url(../bg/bgfour.jpg) repeat-x left bottom;
+	padding-top: 400px;
+	padding-bottom: 150px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+h1 {
+	color: rgb(255, 118, 0); /* Цвет заголовка */
+	font-size: 50pt; /* Размер шрифта в пунктах */
+	font-family: "Palatino Linotype"; /* Семейство шрифтов */
+	text-align: center;
+}
+a {
+	color: #06f
+	text-decoration: none
+	border-bottom: 2px dotted #06f
+}
+a:hover {
+	color: #f00
+	border-bottom: 2px  dotted #f00
+}
+table {
+	font-family: Gabriola;
+	font-size: 30pt;
+	color: #000000;
+}
